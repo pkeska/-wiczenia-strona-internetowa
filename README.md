@@ -1,1 +1,1 @@
-# -wiczenia-strona-internetowa
+# -Cwiczenia-strona-internetowa
