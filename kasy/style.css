@@ -1,0 +1,17 @@
+#tabela {
+width: 1000px; margin: 0 auto; text-align: center;
+border: 1px solid black;
+border-collapse: collapse;
+}
+
+#tabela tr:nth-child(even) {background: silver}
+
+#tabela td {
+   border: 1px solid black;
+   padding: 5px;
+}
+
+#tabela th {
+   border: 1px solid black;
+   padding: 5px;
+}
